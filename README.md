@@ -1,1 +1,1 @@
-# MAI_Backend_labs
+# 2022_MAI_Backend_N_Polovinkin
